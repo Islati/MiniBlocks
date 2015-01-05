@@ -1,0 +1,10 @@
+name: MiniBlocks
+main: com.caved_in.miniblocks.MiniBlocks
+version: ${project.version}
+description: MiniBlocks - Like real blocks, but smaller!
+author: Brandon Curtis (TheGamersCave)
+softdepend: [Commons]
+commands:
+   miniblocks:
+      description: Main command for the miniblocks plugin.
+      usage: /<command
